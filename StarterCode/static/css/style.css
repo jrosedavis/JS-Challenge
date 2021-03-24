@@ -25,7 +25,7 @@ body {
   bottom: 0;
   left: 0;
   min-height: 100px;
-  background: #4e5d6c;
+  background: #3c3c3d;
 }
 
 /* The code styles the text at the bottom of the footer */
@@ -54,7 +54,7 @@ body {
 
 /* Adding styles to the aside and filter form */
 .ufo-form {
-  margin-top: 50px;
+  margin-top: 55px;
 }
 
 .filters .panel-body {
@@ -62,13 +62,13 @@ body {
 }
 
 .filters {
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 select {
   display: block;
   width: 100%;
-  padding: 8px;
+  padding: 10px;
   color: #8e979f;
   outline: none;
 }
@@ -153,7 +153,7 @@ select {
   #table-area tr td:first-child {
     font-size: 1.8em;
     font-weight: bold;
-    background: #1b3146;
+    background: #1dcc2c;
   }
 
   #table-area tr td:last-child {
