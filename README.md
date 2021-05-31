@@ -3,6 +3,9 @@
 ## Summary:
 * Project uses JavaScript to create interactive filters of UFO sightings data
 
+![image](https://user-images.githubusercontent.com/72557712/120234982-52d9b300-c216-11eb-9331-8401068abf15.png)
+
+
 ## Files:
 * 'UFO-Level-1' folder includes index.html file for part 1 of assignment
 * 'UFO-Level-2' folder includes index.html file for for part 2 of assignment
