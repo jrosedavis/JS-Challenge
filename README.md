@@ -4,6 +4,8 @@
 * Project uses JavaScript to create interactive filters of UFO sightings data
 
 ## Files:
+* 'UFO-Level-1' folder includes index.html file for part 1 of assignment
+* 'UFO-Level-2' folder includes index.html file for for part 2 of assignment
 
 ## Instructions:
 
